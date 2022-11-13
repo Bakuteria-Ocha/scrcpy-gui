@@ -6,6 +6,8 @@
 </div>
 <hr/>
 <p align="center">✨ <strong>A simple & beautiful GUI application for scrcpy</strong></p>
+<h3 align="center"> <strong> NOTE: Simon no energy to continue maintenance, if interested please fork</h3>
+
 <p align="center">
   <a href="https://github.com/feross/standard">
     <img src="https://img.shields.io/badge/code%20style-standard-green.svg?style=flat-square" alt="">
@@ -23,8 +25,6 @@
   <a href="https://opensource.org/licenses/GPL-3.0/"><img src="https://badges.frapsoft.com/os/gpl/gpl.svg?style=flat-square"></a>
   <a href="https://github.com/Tomotoes/scrcpy-gui/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square"></a>
 </p>
-
-
 
 ## 💡Introduction
 
@@ -205,31 +205,14 @@ npm run lint
 
 
 
-## 🤞Contributors
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Tomotoes"><img src="https://avatars1.githubusercontent.com/u/32236122?s=460&v=4" width="100px;" alt="Tomotoes"/><br /><sub><b>Simon Ma</b></sub></a><br /><a href="https://github.com/Tomotoes/scrcpy-gui/commits?author=Tomotoes" title="Code">💻</a> <a href="https://tomotoes.com">🎨</a></td>
-  </tr>
-</table>
-
-Contributions of any kind welcome!
-
-
-
 ## 👀Reward
 
 If you like `scrcpy-gui` and it really helps you, please give me a cup of coffee~
 
 paypal: [https://paypal.me/tomotoes](https://paypal.me/tomotoes)
 
-Alipay：
+[![Alipay：](https://camo.githubusercontent.com/f4874996db5ac421925db08778d800d76d36abbc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545362539342541462545342542422539382545352541452539442d25453525393025393154412545362538442539302545352538412541392d677265656e2e737667)](https://cdn.jsdelivr.net/gh/Tomotoes/images/blog/alipay.png)[![Wechat：](https://camo.githubusercontent.com/26101aa838286ad0d45a6f71b25fdc6e14e7668c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545352542452541452545342542462541312d25453525393025393154412545362538442539302545352538412541392d677265656e2e737667)](https://cdn.jsdelivr.net/gh/Tomotoes/images/blog/wechat.png)
 
-![alipay](https://cdn.jsdelivr.net/gh/Tomotoes/images/blog/alipay.png)
-
-Wechat：
-
-![wechat](https://cdn.jsdelivr.net/gh/Tomotoes/images/blog/wechat.png)
 
 ## 📃License
 
